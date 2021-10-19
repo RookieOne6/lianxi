@@ -11,6 +11,7 @@ public class ThreadSleep {
         System.out.println("hot-fix git2");
         System.out.println("hopush git2");
         System.out.println("push git3");
+        System.out.println("github_pull git3");
     } }
 class Processor implements Runnable {
     public void run() {
