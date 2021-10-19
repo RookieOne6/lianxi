@@ -8,6 +8,7 @@ public class ThreadSleep {
         System.out.println("gitTest");
         System.out.println("hello git2");
         System.out.println("master git2");
+        System.out.println("hot-fix git2");
     } }
 class Processor implements Runnable {
     public void run() {
