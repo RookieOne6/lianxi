@@ -6,6 +6,7 @@ public class ThreadSleep {
         Thread t2 = new Thread(r1, "t2");
         t2.start();
         System.out.println("gitTest");
+        System.out.println("hello git2");
     } }
 class Processor implements Runnable {
     public void run() {
